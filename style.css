@@ -1,0 +1,78 @@
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
+
+* {
+  background-color: #FFFBFF;
+  box-sizing: border-box;
+}
+
+h1 {
+    background-color: #2D3142;
+    color: #bfc0c0;
+    font-family: "Roboto", sans-serif;
+    text-align: left;
+    width: 2000px;
+    padding: 40px;
+}
+
+h3 {
+  color: #FFFFFF;
+  background-color: #EF8354;
+  text-align: justify;
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  border-left: 5px solid #4a576d;
+  width: 1900px;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+h4 {
+  color: #2D3142;
+  text-align: left;
+  font-family: "Roboto", sans-serif;
+  font-size: 18px;
+}
+
+#para1 {
+  color: #2D3142;
+  text-align: left;
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+}
+
+#para2 {
+  color: #2D3142;
+  text-align: left;
+  font-family: "Tahoma", sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+#para3 {
+  color: #2D3142;
+  text-align: left;
+  font-family: "Tahoma", sans-serif;
+  font-size: 15px;
+}
+
+#para4 {
+  color: #2D3142;
+  text-align: left;
+  font-family: "Tahoma", sans-serif;
+  font-size: 15px;
+}
+
+#para5 {
+  color: #2D3142;
+  text-align: left;
+  font-family: "Tahoma", sans-serif;
+  font-size: 15px;
+}
+
+ul {
+  color: #2D3142;
+  text-align: left;
+  font-family: "Tahoma", sans-serif;
+  font-size: 15px;
+  list-style: circle;
+}
